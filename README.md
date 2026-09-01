@@ -15,7 +15,7 @@
 | **Display Output** | Black Screen on 3x DP (UEFI) | Fully Operational (UEFI) | DP FW Updated |
 | **Max Thermal Load (OCCT)** | `82.0 °C` (No TIM) | **`50.0 °C`** (Hydronaut Pro + 2x P12 Pro PST) | -32.0 °C Delta |
 | **Hotspot Delta ($\Delta T$)** | Throttling / Unmeasurable | **`9.0 °C`** ($31.8\text{ °C}$ Die / $40.8\text{ °C}$ Hotspot) | Optimal TIM Contact |
-| **Power Draw / Limit** | `130 W` (Stock VBIOS) | **`163 W`** (Custom VBIOS by Jonesy) | Unlocked |
+| **Power Draw / Limit** | `130 W` (Stock VBIOS) | **`163 W`** (Custom VBIOS) | Unlocked |
 
  **Audit Objectives & Scope:** Diagnostic troubleshooting, GOP firmware recovery, changing thermal paste and pads, custom VBIOS flashing, and overclocking validation of a legacy GTX 960 platform.
 
