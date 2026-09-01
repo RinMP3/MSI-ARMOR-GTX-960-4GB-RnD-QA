@@ -4,7 +4,7 @@
 | :--- | :--- |
 | **Test Subject** | NVIDIA GeForce GTX 960 (4GB GM206 / Stock VBIOS 130W) |
 | **Category** | Hardware Recovery, Firmware Flashing & Thermal Optimization |
-| **Author / Engineer** | RinMP3 |
+| **Author** | RinMP3 |
 | **Equipment & TIM Used** | Thermal Grizzly Hydronaut Pro, 2x Arctic P12 PWM PST, NVIDIA DP Firmware Updater, NVFlash |
 | **Date** | August 24, 2026 |
 
